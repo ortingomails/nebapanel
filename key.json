@@ -3,9 +3,9 @@
     "bannerText": "Log in to access..",
     "getKeyText": "🔑 Get Key ↗️",
     "getKeyUrl": "https://t.me/neba_admin1",
-    "imageUrl": "https://gitlab.com/ortingomails/login/-/blob/main/ttyy.png",
+    "imageUrl": "https://raw.githubusercontent.com/ortingomails/nebapanel/refs/heads/main/ttyy.png",
     "loginBtnText": "AUTHENTICATE",
-    "maintenanceMode": false,
+    "maintenanceMode": true,
     "maintenanceMsg": "NebaMods Server is temporarily down for maintenance.",
     "statusBadge": "SECURE",
     "tags": [
