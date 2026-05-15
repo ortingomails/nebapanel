@@ -23,7 +23,7 @@
     "Admin": {
       "hwid": "RESET",
       "expireDate": "2026-06-14",
-      "isBanned": false,
+      "isBanned": true,
       "banReason": "",
       "userRank": "Supreme User"
     }
