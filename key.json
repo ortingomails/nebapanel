@@ -19,5 +19,13 @@
   "BannedHWIDs": {
     "EXAMPLE_BANNED_HWID": "Attempted Smali Bypass"
   },
-  "Keys": {}
+  "Keys": {
+    "Neba": {
+      "hwid": "RESET",
+      "expireDate": "2026-05-23",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
+    }
+  }
 }
